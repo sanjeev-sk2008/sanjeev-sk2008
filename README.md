@@ -1,6 +1,6 @@
 # Hi, I'm Sanjeev 👋
 
-I'm a B.Tech Computer Science (Data Science) student at VIT Chennai.
+I'm a B.Tech Computer Science student at VIT Chennai.
 
 I'm currently exploring different areas of computer science before choosing a specialization. My goal is to build a strong foundation through projects, consistent practice, and continuous learning.
 
