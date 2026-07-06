@@ -7,6 +7,8 @@ I'm currently exploring different areas of computer science before choosing a sp
 ## Currently Learning
 
 * Python
+* C/C++
+* Java
 * Data Structures & Algorithms
 * Git & GitHub
 * Linux
