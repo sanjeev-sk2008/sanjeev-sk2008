@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sanjeev 👋
 
-<!--
-**sanjeev-sk2008/sanjeev-sk2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science (Data Science) student at VIT Chennai.
 
-Here are some ideas to get you started:
+I'm currently exploring different areas of computer science before choosing a specialization. My goal is to build a strong foundation through projects, consistent practice, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* Linux
+
+## Technologies
+
+* Python
+* C
+* C++
+* Java
+* SQL
+* Git & GitHub
+* Linux
+* MySQL
+* NumPy
+* Pandas
+* Matplotlib
+
+## Current Goal
+
+Build projects that improve my skills and document my learning journey.
+
+Thanks for stopping by!
