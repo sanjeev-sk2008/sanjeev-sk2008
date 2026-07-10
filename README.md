@@ -10,6 +10,9 @@ I'm currently exploring different areas of computer science before choosing a sp
 * Java
 * Data Structures & Algorithms
 * Linux
+* NumPy
+* Pandas
+* Matplotlib
 
 ## Technologies
 
