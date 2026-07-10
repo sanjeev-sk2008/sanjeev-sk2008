@@ -10,7 +10,6 @@ I'm currently exploring different areas of computer science before choosing a sp
 * C/C++
 * Java
 * Data Structures & Algorithms
-* Git & GitHub
 * Linux
 
 ## Technologies
@@ -26,6 +25,13 @@ I'm currently exploring different areas of computer science before choosing a sp
 * NumPy
 * Pandas
 * Matplotlib
+
+## Hobbies
+
+* Chess
+* Painting
+* Gaming
+
 
 ## Current Goal
 
